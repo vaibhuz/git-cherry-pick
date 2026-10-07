@@ -1,6 +1,6 @@
 # Define two numerical variables
 num1 = 700
-num2 = 800
+num2 = 10000
 
 # Calculate the sum
 total = num1 + num2
